@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Patrickinno
+- 👀 I’m interested in full stack engineering 
+- 🌱 I’m currently learning android app development
+- 💞️ I’m looking to collaborate on software development
+- 📫 you can emai me @patrickinnocent70@yahoo.com
